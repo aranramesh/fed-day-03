@@ -1,0 +1,143 @@
+.container{
+    width: 1300px;
+    margin: auto;
+    outline: solid 2px yellow;
+
+}
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+
+}
+.bmw{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+.audi{
+    width: 50%;
+    height: 400px;
+    outline: solid 2px green;
+}
+.jaguar{
+    display: flex;
+    flex-wrap: wrap;
+}
+.jaguar .a5{
+    width: 25%;
+    height: 265px;
+    outline: solid 2px yellow;
+}
+.rolls{
+    display: flex;
+    flex-wrap: wrap;
+}
+.rolls .royce{
+    width: 33.33%;
+    flex-wrap: wrap;
+    height: 300px;
+    outline: solid 2px red;
+}
+.flex-boxes{
+    height: 200px;
+    outline: solid 2px yellow;
+}
+.content{
+    width: 50%;
+    height: 400px;
+    outline: solid 2px yellow;
+    justify-content: space-between;
+}
+.suzuki{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+.honda{
+    display: flex;
+    flex-wrap: wrap;
+}
+.honda .s5{
+    width: 33.33%;
+    height: 265px;
+    outline: solid 2px yellow;
+}
+.bentley{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+}
+.ford{
+    display: flex;
+    justify-content:center ;
+    height: 200px;
+}
+.rtx{
+    display: flex;
+    justify-content: space-between;
+}
+.rtx .pb{
+    width: 25%;
+    height: 400px;
+    outline: solid 2px yellow;
+}
+.gtx{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+.boat{
+    height: 300px;
+    outline: solid 2px yellow;
+    line-height: 60px;
+   
+
+}
+.creta{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+.urus{
+    display: flex;
+    flex-wrap: wrap;
+}
+.urus .i10{
+    width: 33.33%;
+    height: 265px;
+    outline: solid 2px yellow;
+}
+.polo{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.polo .txt{
+    width: 50%;
+    height: 300px;
+    outline: solid 2px yellow;
+}
+.taigun{
+    display: flex;
+    justify-content: space-between;
+}
+.taigun .footer{
+    width: 25%;
+    height: 300px;
+    outline: solid 2px yellow;
+}
+.ghost{
+    display: flex;
+    justify-content: space-between;
+}
+.ghost .legal{
+    width: 50%;
+    outline: solid 2px yellow;
+    height: 200px;
+}
