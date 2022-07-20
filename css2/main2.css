@@ -1,0 +1,114 @@
+.container{
+    width: 1300px;
+    margin: auto;
+    outline: solid 2px red;
+    
+    
+}
+.tv{
+    height: 500px;
+}
+.audi .imag{
+    height: 200px;
+    justify-content: center;
+}
+
+.bmw{
+    display: flex;
+    justify-content: space-between;
+}
+.bmw .img{
+    width: 50%;
+    height: 300px;
+    outline: solid 2px yellow;
+}
+.rolls{
+    height: 100px;
+    justify-content: center;
+}
+.jack{
+    display: flex;
+    justify-content: space-between;
+}
+.jack .kmg{
+    width: 25%;
+    height: 300px;
+    outline: solid 2px red;
+
+}
+.skills{
+    height: 100px;
+}
+.mercedes{
+    display: flex;
+    flex-wrap: wrap;
+}
+.mercedes .kenz{
+    width: 33.33%;   
+    flex-wrap: wrap;
+    height: 100px;
+    outline: solid 2px red;
+}
+.res{
+    height: 100px;
+}
+.rk {
+   display: flex;
+   justify-content: space-between;
+
+}
+.rk .mxt{
+    width: 50%;
+    height: 400px;
+    outline: solid 2px yellow;
+}
+.port{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.port2{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+.vivo{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.rx{
+    display: flex;
+    flex-wrap: wrap;
+}
+.rx .kenz1{
+    width: 33.33%;   
+    flex-wrap: wrap;
+    height: 100px;
+    outline: solid 2px red;
+}
+.ex{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.ax{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}
+.mx{
+    display: flex;
+    justify-content: space-between;
+ 
+ }
+ .mx .pp{
+     width: 50%;
+     height: 400px;
+     outline: solid 2px yellow;
+      }
+      .ox{
+        display: flex;
+        justify-content: center;
+        height: 100px; 
+      }

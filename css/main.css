@@ -34,7 +34,7 @@
     flex-wrap: wrap;
 }
 .rolls .royce{
-    width: 33.33%;
+    width: 33.33%;   
     flex-wrap: wrap;
     height: 300px;
     outline: solid 2px red;
@@ -97,6 +97,11 @@
     outline: solid 2px yellow;
     line-height: 60px;
    
+
+}
+.boat .questions{
+    outline: solid 2px yellow;
+    height: 100px;
 
 }
 .creta{
