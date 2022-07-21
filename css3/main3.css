@@ -1,0 +1,86 @@
+.container{
+    width: 1300px;
+    margin: auto;
+    outline: solid 2px red;
+    
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+}
+.Get{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.Get .image{
+    width: 50%;
+    height: 500px;
+    outline: solid 2px red;
+    
+}
+.audi{
+    display: flex;
+    flex-wrap: wrap;
+}
+.audi .a1{
+    width: 50%;
+    height: 400px;
+    outline: solid 2px red;
+   
+}
+.bmw{
+    display: flex;
+    flex-wrap: wrap;
+}
+.bmw .x1{
+    width: 33.33%;
+    height: 200px;
+    outline: solid 2px red;
+}
+.call{
+    height: 300px;
+}
+.jack{
+    display: flex;
+    flex-wrap: wrap;
+}
+.jack .txt{
+    width: 25%;
+    height: 500px;
+    outline: solid 2px red;
+    
+}
+.aston{
+    width: 50%;
+    outline: solid 2px red;
+    height: 250px;
+}
+.blog{
+    display: flex;
+    flex-wrap: wrap;
+}
+.blog .auto{
+    width: 25%;
+    height: 300px;
+    outline: solid 2px red;
+}
+.martin{
+    display: flex;
+    flex-wrap: wrap;
+}
+.martin .cooper{
+    width: 40%;
+    height: 300px;
+    outline: solid 2px red ;
+}
+.martin .coop{
+    width: 20%;
+    outline: solid 2px red ;
+}
+.no{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
