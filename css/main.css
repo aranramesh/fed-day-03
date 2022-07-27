@@ -16,10 +16,25 @@
     height: 500px;
 }
 .audi{
-    width: 50%;
-    height: 400px;
-    outline: solid 2px green;
+   display: flex;
+   
+
+    
 }
+.imagecontent{
+    width: 50%;
+    height: auto;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    
+}
+.pics {
+    width: 100%;
+}
+
+
 .jaguar{
     display: flex;
     flex-wrap: wrap;
