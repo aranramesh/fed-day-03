@@ -1,5 +1,5 @@
 .container{
-    width: 1300px;
+    width: 1171px;
     margin: auto;
     outline: solid 2px yellow;
 
@@ -17,12 +17,11 @@
 }
 .audi{
    display: flex;
-   
-
+   height: 600px;
     
 }
 .imagecontent{
-    width: 50%;
+    width: 100%;
     height: auto;
     padding-top: 20px;
     padding-right: 20px;
@@ -30,9 +29,46 @@
     padding-left: 20px;
     
 }
+.element style{
+
+}
+h3 {
+    display: block;
+    font-family: "poppins",sans-serif;
+    font-size: 1cm;
+    font-weight: 600;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 1em;
+    margin-inline-end: 1em;
+}
+.element.style{
+
+}
+.fst-italic{
+    font-style: italic!important;
+}
+p{
+    margin-top: 0%;
+    margin-bottom: 1rem;
+}
+p {
+    display: block;
+    margin-block-start: ;
+    margin-block-end: 1em;
+    margin-inline-start: 1em;
+    margin-inline-end: 1em;
+}
 .pics {
     width: 100%;
 }
+.cont{
+    font-size: 20px;
+    padding-left: 20px;
+    color:#777777;
+    padding-bottom: 20px;
+}
+
 
 
 .jaguar{
